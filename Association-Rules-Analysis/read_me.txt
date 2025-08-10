@@ -1,4 +1,4 @@
-# 🛒 Association Rules Analysis - Market Basket
+# Association Rules Analysis - Market Basket
 
 ## Overview
 This project applies the **Apriori algorithm** to grocery transaction data to identify frequent itemsets and generate association rules, providing actionable business insights.
@@ -14,4 +14,5 @@ This project applies the **Apriori algorithm** to grocery transaction data to id
 
 ## Installation
 pip install pandas mlxtend
+
 jupyter notebook ASSOCIATION_RULES_GROCERIES.ipynb
